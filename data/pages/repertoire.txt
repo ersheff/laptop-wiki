@@ -1,0 +1,3 @@
+{{NEWPAGE>repertoire#wiki:rep_template}}
+
+{{tagfilter>Software=software:.*|Hardware=hardware:.*&nouser&nodate&multi}}

@@ -1,0 +1,14 @@
+2023-05-28 22:32:51	/Users/sheffie/Desktop/dokuwiki/inc/ChangeLog/RevisionInfo.php(39)	E_WARNING: Undefined array key "media"
+  #0 /Users/sheffie/Desktop/dokuwiki/inc/ChangeLog/RevisionInfo.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/Users/sheffie/...', 39)
+  #1 /Users/sheffie/Desktop/dokuwiki/inc/Ui/PageDiff.php(69): dokuwiki\ChangeLog\RevisionInfo->__construct(Array)
+  #2 /Users/sheffie/Desktop/dokuwiki/inc/Ui/PageConflict.php(60): dokuwiki\Ui\PageDiff->compareWith('====== Title ==...')
+  #3 /Users/sheffie/Desktop/dokuwiki/inc/Action/Conflict.php(36): dokuwiki\Ui\PageConflict->show()
+  #4 /Users/sheffie/Desktop/dokuwiki/inc/template.php(100): dokuwiki\Action\Conflict->tplContent()
+  #5 [internal function]: tpl_content_core('conflict')
+  #6 /Users/sheffie/Desktop/dokuwiki/inc/Extension/Event.php(133): call_user_func_array('tpl_content_cor...', Array)
+  #7 /Users/sheffie/Desktop/dokuwiki/inc/Extension/Event.php(199): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #8 /Users/sheffie/Desktop/dokuwiki/inc/template.php(85): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'conflict', 'tpl_content_cor...')
+  #9 /Users/sheffie/Desktop/dokuwiki/lib/tpl/dokuwiki/main.php(59): tpl_content()
+  #10 /Users/sheffie/Desktop/dokuwiki/inc/actions.php(27): include('/Users/sheffie/...')
+  #11 /Users/sheffie/Desktop/dokuwiki/doku.php(126): act_dispatch()
+  #12 {main}

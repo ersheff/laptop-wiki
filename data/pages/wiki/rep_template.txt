@@ -1,0 +1,44 @@
+====== Title ======
+
+===== Info =====
+/* Feel free to set composer name(s) as link(s) to personal websites */ 
+
+  * Composer(s): Firstname Lastname
+  * Contact: composer@email.com
+
+/* Add a tag for each composer name */
+{{tag>
+composer:
+}}
+
+
+===== Description =====
+/* General description here, e.g. program notes or a short explanation */
+
+
+===== Format & Instrumentation =====
+
+{{tag>
+format:
+}}
+
+===== Software Requirements =====
+
+  * Applications:
+  * Operating system:
+  * Other:
+
+{{tag>
+software:
+operating_system:
+}}
+
+===== Hardware Requirements =====
+
+{{tag>
+hardware:
+}}
+
+===== Resources & Media =====
+
+  * [[http://example.com|Link to score]]

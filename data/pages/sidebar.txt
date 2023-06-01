@@ -1,0 +1,8 @@
+**[[start|Home]]**
+
+**[[repertoire|Repertoire]]**
+
+**Wiki Info**
+
+  * [[wiki:syntax|Syntax]]
+  * [[wiki:dokuwiki|DokuWiki]]
