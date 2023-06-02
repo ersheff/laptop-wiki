@@ -1,0 +1,33 @@
+====== Software Share ======
+
+
+----
+
+
+===== Collab-Hub =====
+
+[[https://www.collab-hub.io|Collab-Hub]] is a tool that helps artists, musicians, circuit-benders, game developers, and creative coders
+share data effortlessly between remote systems and collaborators (or on the same local network).
+
+The Max client is available through Max's built-in package manager.
+
+The P5 library is available [[https://editor.p5js.org/ersheff/collections/-gBBpVYcp|here]].
+
+
+----
+
+
+===== Cereal Library =====
+
+The [[https://github.com/ersheff/Cereal-Library|Cereal]] Arduino library and accompanying demo patches
+were created to help simplify serial communication with Max and Pure Data (Pd) for beginners,
+especially when using multiple sensors.
+
+
+----
+
+
+===== Simple RNBO Web Template =====
+
+This [[https://github.com/ersheff/simple-rnbo-web-template|repository]] includes a bare minimum
+"single oscillator with frequency and volume controls" example for Max's RNBO Web Export.

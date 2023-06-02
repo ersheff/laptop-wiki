@@ -1,0 +1,18 @@
+====== FAQ ======
+
+
+----
+
+
+**Why a wiki? Why not just a shared Google Drive folder?**
+
+Structure, consistency, flexibility, and community ownership.
+
+
+**Why DokuWiki? Why not something prettier like a Fandom site?**
+
+DokuWiki is open-source, saves pages as plain text files (no database required, easy to archive),
+has been around for a long time, and has an extensive collection of plugins to extend functionality.
+The tagging system is a little clunky (hopefully this will be addressed by a plugin update),
+but as you'll hopefully see on the [[:repertoire|Repertoire]] page, it makes it much easier to find music
+that fits the needs of your specific group.

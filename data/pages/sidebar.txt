@@ -1,8 +1,19 @@
-**[[start|Home]]**
+**Repertoire**
+  * [[repertoire_submit|Submit]]
+  * [[repertoire_search|Search]]
+  * [[repertoire_browse|Browse]]
 
-**[[repertoire|Repertoire]]**
 
-**Wiki Info**
+**[[software_share|Software Share]]**
 
-  * [[wiki:syntax|Syntax]]
-  * [[wiki:dokuwiki|DokuWiki]]
+**[[handbook|Handbook]]**
+
+
+----
+
+
+**Info**
+
+  * [[wiki:faq|LEMARR FAQ]]
+  * [[wiki:syntax|DokuWiki Syntax]]
+  * [[wiki:dokuwiki|About DokuWiki]]

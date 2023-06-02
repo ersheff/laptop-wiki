@@ -1,1 +1,14 @@
-====== Home ======
+====== LEMARR ======
+
+Welcome to the **Laptop Ensemble Media and Repertoire Reference** (name pending).
+The purpose of this community-sourced wiki is to facilitate organizing, planning, and concert programming
+for technology-based ensembles. This can include laptop ensembles or orchestras, mobile device ensembles,
+ensembles of sensor-based instruments, etc.
+
+Currently, this wiki is concentrated on 3 primary sections:
+  * Repertoire: Composers/programmers/designers/artists can create pages to share their pieces and ensemble directors can find music for their groups to learn and perform.
+  * [[software|Software Share]]: A place for programmers/designers to share their non-commercial utilities and instruments.
+  * [[handbook|Handbook]]: A collection of articles, how-to guides, recommendations, and other practical advice.
+
+Over time, these sections can be expanded, modified, and/or replaced.
+New sections can always be created to suit the growing needs of the community.

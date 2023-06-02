@@ -283,7 +283,7 @@ class syntax_plugin_tagfilter_filter extends DokuWiki_Syntax_Plugin
         //Fieldset manuell hinzufügen da ein style Parameter übergeben werden soll
         $form->addElement([
             '_elem' => 'openfieldset',
-            '_legend' => 'Tagfilter',
+            '_legend' => 'Tag Filter',
             'style' => 'text-align:left;width:99%',
             'id' => '__tagfilter_' . $opt['id'],
             'class' => ($flags['labels'] !== false) ? '' : 'hidelabel',

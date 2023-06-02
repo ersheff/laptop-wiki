@@ -1,0 +1,127 @@
+/* LEMARR - NEW REPERTOIRE PAGE TEMPLATE */
+
+
+/* Comments within a /* */ block are for instruction and will not be visible on published pages. */
+
+/*
+Most sections will include some display text with related tags.
+Thorough and consistent use of the provided tag fields is highly encouraged.
+Good tagging practices will facilitate repertoire searches!
+Please double check the Repertoire page for existing tags before creating new ones.
+Tag format is: {{tag>category:tag1 category:tag2 category:tag_with_multiple_words}}
+*/ 
+
+
+/* Replace title. */
+====== Poop ======
+
+
+----
+
+
+===== General =====
+
+Last updated: 
+
+==== People ====
+/* Feel free to set name(s) as link(s) to personal websites. Delete or modify roles as needed. */
+
+  * Composer: [[http://example.com|Eric Sheffield]]
+  * Programmers: Firstname Lastname, Firstname Lastname
+  * Instrument designer: Firstname Lastname
+  * Visual artist: Firstname Lastname
+
+/* Add a tag for each name listed above.
+Remember to use underscores in place of spaces e.g. Firstname_Lastname. */
+
+{{tag>people:Eric_Sheffield}}
+
+
+==== Contact ====
+composer@email.com
+
+
+==== Description ====
+/* Enter a general description or short program notes here if desired.
+Delete this section if it is not needed. */
+
+
+----
+
+
+===== Ensemble Info =====
+
+
+==== Number of Performers ====
+/* For number of performers, enter specific number if needed.
+Use > if there is a minimum e.g. >4 - otherwise, enter "flexible". */
+
+{{tag>performers:4}}
+
+
+==== Instrumentation ====
+/* Limit instrumentation tag choices to:
+Laptops, Mobile_devices, Laptops_plus_instruments, Laptops_plus_voices. */
+
+{{tag>instrumentation:Laptops}}
+
+
+==== Experience Level ====
+/* Limit experience tag choices to: Novice, Intermediate, or Advanced.
+Novice = no notation reading skills required, minimal rehearsal
+Intermediate = requires basic notation reading and/or rhythmic coordination, regular rehearsal
+Advanced = requires advanced notation reading skills and/or rhythmic coordination, rigorous rehearsal
+Add additional notes and description as needed. */
+
+{{tag>experience:Intermediate}}
+
+
+----
+
+
+===== Technical Requirements =====
+
+
+==== Operating System(s) ====
+/* What OS's can this piece be performed with?
+Limit OS tags to: Windows, Mac, Linux, Raspberry Pi, iOS, Android.
+Include additional requirements, e.g. version or architecture limitations, as notes in this section */
+
+{{tag>os:Windows os:Mac os:Linux}}
+
+
+==== Software ====
+/* Suggested tags: Max, Pure_Data, SuperCollider, Ableton_Live, Web_Browser, etc.
+Include additional requirements, e.g. external libraries or plugins, as notes in this section. */
+
+{{tag>software:Max software:Pure_Data}}
+
+
+==== Hardware ====
+/* Include any required non-computing hardware in this section.
+Suggested tags: MIDI_Controllers, Video_Game_Controllers, Sensor_Based, Contact_Mics, etc.
+Please double check the Repertoire page for existing tags before creating new ones. */
+
+{{tag>hardware:}}
+
+
+----
+
+
+===== Resources & Media =====
+/*You are responsible for hosting and maintaining your own resources (e.g. score files) and media!
+This may change in the future, but for now, please do not upload files to this wiki page.
+Video from YouTube or Vimeo and audio from SoundCloud can be embedded
+using the video sharing button in the toolbar. */
+
+  * [[http://example.com|Link to score]]
+  * [[http://example.com|Link to files]]
+
+
+----
+
+
+===== Miscellaneous =====
+/* Add important miscellaneous details and tags here. Delete this section if it is not needed */
+
+{{tag>misc:}}

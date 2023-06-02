@@ -1,0 +1,14 @@
+===== Tag Filter =====
+Use the tag categories below to filter repertoire results.
+Command-click (Mac) or control-click (Windows) to select multiple tags in the same category
+
+{{tagfilter>
+People=people:.*|
+# of Performers=performers:.*|
+Instrumentation=instrumentation:.*|
+Experience Level=experience:.*|
+Operating System=os.*|
+Software=software:.*|
+Hardware=hardware:.*|
+Miscellaneous=misc:.*
+&nouser&nodate&multi}}
