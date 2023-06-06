@@ -5,14 +5,19 @@
 /* Replace title. */
 ====== Title ======
 
+
+===== General Info =====
+
 /* Add additional roles and names if needed. */
   * Composer: [[http://example.com|Firstname Lastname]]
   * Contact: [[composer@email.com]]
+  * Duration:
 
 /* Enter a general description or short program notes here if desired. */
 
 {{tag>
 people:
+duration:
 }}
 
 

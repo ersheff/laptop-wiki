@@ -1,9 +1,12 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1686024925;s:8:"modified";i:1686025762;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:9:{s:4:"date";i:1686025030;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:30:"repertoire:repertoire_template";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1012;s:9:"timestamp";i:1686025030;}s:5:"title";s:5:"Title";s:7:"subject";a:8:{i:0;s:6:"people";i:1;s:10:"performers";i:2;s:15:"instrumentation";i:3;s:10:"experience";i:4;s:2:"os";i:5;s:8:"software";i:6;s:8:"hardware";i:7;s:4:"misc";}s:8:"relation";a:2:{s:10:"references";a:8:{s:10:"tag:people";b:0;s:14:"tag:performers";b:0;s:19:"tag:instrumentation";b:0;s:14:"tag:experience";b:0;s:6:"tag:os";b:0;s:12:"tag:software";b:0;s:12:"tag:hardware";b:0;s:8:"tag:misc";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:396:"Title
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1686024925;s:8:"modified";i:1686070851;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:9:{s:4:"date";i:1686025030;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:30:"repertoire:repertoire_template";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1012;s:9:"timestamp";i:1686025030;}s:5:"title";s:5:"Title";s:7:"subject";a:9:{i:0;s:6:"people";i:1;s:8:"duration";i:2;s:10:"performers";i:3;s:15:"instrumentation";i:4;s:10:"experience";i:5;s:2:"os";i:6;s:8:"software";i:7;s:8:"hardware";i:8;s:4:"misc";}s:8:"relation";a:2:{s:10:"references";a:9:{s:10:"tag:people";b:0;s:12:"tag:duration";b:0;s:14:"tag:performers";b:0;s:19:"tag:instrumentation";b:0;s:14:"tag:experience";b:0;s:6:"tag:os";b:0;s:12:"tag:software";b:0;s:12:"tag:hardware";b:0;s:8:"tag:misc";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:365:"Title
+
+General Info
 
 	*  Composer: Firstname Lastname
 	*  Contact: <composer@email.com>
+	*  Duration:
 
-people
+people duration
 
 Ensemble Info
 
@@ -23,9 +26,4 @@ os software hardware
 
 Resources & Media
 
-	*  Link to score and files
-	*  Link to recording
-
-Miscellaneous
-
-misc";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1686024925;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:9:{s:4:"date";i:1686025030;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:30:"repertoire:repertoire_template";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1012;s:9:"timestamp";i:1686025030;}}}
+	*";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1686024925;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:9:{s:4:"date";i:1686025030;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:30:"repertoire:repertoire_template";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1012;s:9:"timestamp";i:1686025030;}}}

@@ -210,3 +210,24 @@
 1686026576	::1	E	repertoire:repertoire_submit	admin			1
 1686026720	127.0.0.1	D	repertoire:repertoire_pages:poop		removed - external edit (Unknown date)		-1174
 1686026721	::1	C	repertoire:repertoire_pages:poop	admin	created		1011
+1686070443	127.0.0.1	E	repertoire:repertoire_search		external edit		22
+1686070488	::1	E	repertoire:repertoire_search	admin			-12
+1686070442	127.0.0.1	E	repertoire:repertoire_submit		external edit		16
+1686070508	::1	E	repertoire:repertoire_submit	admin			-13
+1686070634	127.0.0.1	D	repertoire:repertoire_pages:poop		removed - external edit (Unknown date)		-1011
+1686070635	::1	C	repertoire:repertoire_pages:poop	admin	created		1077
+1686070654	::1	E	repertoire:repertoire_pages:poop	admin			5
+1686070669	::1	E	repertoire:repertoire_pages:poop	admin			-4
+1686070676	::1	E	repertoire:repertoire_pages:poop	admin			0
+1686070743	::1	E	repertoire:repertoire_pages:poop	admin			3
+1686070748	::1	E	repertoire:repertoire_pages:poop	admin	[General Info] 		-2
+1686070760	::1	E	repertoire:repertoire_pages:poop	admin			2
+1686070767	::1	E	repertoire:repertoire_pages:poop	admin	[General Info] 		-2
+1686070820	::1	E	repertoire:repertoire_pages:poop	admin			-5
+1686070829	::1	E	repertoire:repertoire_pages:poop	admin			-9
+1686070843	::1	E	repertoire:repertoire_pages:poop	admin	[General Info] 		1
+1686070933	127.0.0.1	E	repertoire:repertoire_submit		external edit		-7
+1686072464	::1	E	repertoire:repertoire_submit	admin			7
+1686072526	::1	E	repertoire:repertoire_submit	admin			-4
+1686072842	::1	C	repertoire:repertoire_pages:test	admin	created		1069
+1686072852	::1	E	repertoire:repertoire_pages:test	admin	[General Info] 		3

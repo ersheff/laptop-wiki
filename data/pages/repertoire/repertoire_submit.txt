@@ -1,14 +1,11 @@
-====== Repertoire ======
-
-
-===== Submit =====
+====== Repertoire: Submit ======
 
 To create a new entry for the repertoire collection, enter a title in the text field below and click the
 "Add Page" button.
 
 {{NEWPAGE>repertoire:repertoire_pages#repertoire:repertoire_template}}
 
-The new page will be generated from a template with the following sections: **Title, Ensemble Info, Technical Requirements, Resources & Media, Miscellaneous.**
+The new page will be generated from a template with the following sections: **General Info, Ensemble Info, Technical Requirements, Resources & Media, Miscellaneous.**
 
 
 
@@ -18,7 +15,7 @@ The new page will be generated from a template with the following sections: **Ti
 ==== Tags ====
 
 Each section of a repertoire entry should include several tags to strengthen search efficacy.
-Tags are added while editing a submission after the written (i.e. visible) portion of the section.
+Tags are added while editing a submission at the end of the written (i.e. visible) portion of the section.
 To promote simplicity and usability, tag content may not always match written content exactly i.e.
 written content can be expanded and explained in detail, while tags should be short and generic.
 Please double check the Repertoire Search page to see if a suitable tag exists before creating new ones.
@@ -41,20 +38,24 @@ Note that tag categories might be used multiple times in the same section, and m
 
 ==== Section Guidelines ====
 
-
-=== Title ===
-
-In addition to the composition title, the Title section also includes composer and collaborator names, contact information, and optionally a general description or short program notes.
-
 Replace the word Title in the top level heading with the title of the composition. This also determines the
 name of the page that will show up in the search results.
+
+
+=== General Info ===
+
+The General section includes composer and collaborator names, contact information, duration, and optionally a general description or short program notes.
 
 Set composer name(s) as link(s) to personal websites if desired using the square bracket format provided in the
 template or the External Link button in the editor toolbar.
 You may also enter additional roles as needed for collaborators
 e.g. video artists, instrument designers, programmers, etc.
 
-** // add length field and tag guidelines - suggestions? // **
+Use only the following tags for duration:
+  * <5m
+  * 5-10m
+  * >10m
+  * Concert_Length
 
 
 === Ensemble Info ===
@@ -71,8 +72,8 @@ Use only the following tags for experience level:
 Start with the following tags for instrumentation:
   * Laptops_Only
   * Mobile_Devices_Only
-  * Laptops_Plus_Instrument(s)
-  * Laptops_Plus_Voice(s)
+  * Laptops_Plus_Instruments
+  * Laptops_Plus_Voices
   
 Additional tags may be added if needed to indicate specific instruments.
 
@@ -129,4 +130,5 @@ For example:
   * Unique performance venue requirements
   * Costumes
   * etc.
+
 This section can be deleted from the submission if it is not needed.

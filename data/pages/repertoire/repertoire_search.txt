@@ -1,6 +1,4 @@
-====== Repertoire ======
-
-===== Search =====
+====== Repertoire: Search ======
 
 
 Use the tag categories below to filter repertoire results. 
@@ -10,6 +8,7 @@ Alternatively, you can use the search field to look for a specific title or keyw
 
 {{tagfilter>
 People=people:.*|
+Duration=duration:.*|
 # of Performers=performers:.*|
 Instrumentation=instrumentation:.*|
 Experience Level=experience:.*|

@@ -81,3 +81,11 @@ people:eric
 os:noodle
 software:poop
 hardware:pee
+duration:less_than_5:00
+duration:less_than_5_minutes
+duration:less_than_5
+duration:5
+duration:5m
+tag:duration
+tag:5-10m
+duration:5-10m

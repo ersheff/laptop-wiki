@@ -13,3 +13,5 @@
 1686016037	::1	E	repertoire:repertoire_search	admin			-4
 1686016056	::1	E	repertoire:repertoire_search	admin			0
 1686016062	::1	E	repertoire:repertoire_search	admin			1
+1686070443	127.0.0.1	E	repertoire:repertoire_search		external edit		22
+1686070488	::1	E	repertoire:repertoire_search	admin			-12
