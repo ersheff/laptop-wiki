@@ -1,0 +1,20 @@
+====== Repertoire ======
+
+===== Search =====
+
+
+Use the tag categories below to filter repertoire results. 
+Command-click (Mac) or control-click (Windows) to select multiple tags in the same category. 
+Alternatively, you can use the search field to look for a specific title or keyword in the repertoire collection: {searchform ns=repertoire_pages}
+
+
+{{tagfilter>
+People=people:.*|
+# of Performers=performers:.*|
+Instrumentation=instrumentation:.*|
+Experience Level=experience:.*|
+Operating System=os.*|
+Software=software:.*|
+Hardware=hardware:.*|
+Miscellaneous=misc:.*
+&nouser&nodate&multi}}

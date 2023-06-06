@@ -1,0 +1,238 @@
+
+<h1 class="sectionedit1" id="repertoire">Repertoire</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Repertoire&quot;,&quot;hid&quot;:&quot;repertoire&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-27&quot;} -->
+<h2 class="sectionedit2" id="submit">Submit</h2>
+<div class="level2">
+
+<p>
+To create a new entry for the repertoire collection, enter a title in the text field below and click the
+“Add Page” button.
+</p>
+<div class="addnewpage"><p><form name="addnewpage" method="get" action="/doku.php" accept-charset="utf-8"><input type="hidden" name="np_cat" id="np_cat" value="repertoire:repertoire_pages"/><input class="edit" type="text" name="title" size="20" maxlength="255" tabindex="2" />		<input type="hidden" name="newpagetemplate" value="repertoire:repertoire_template" />
+<input type="hidden" name="newpagevars" value=""/><input type="hidden" name="do" value="edit" /><input type="hidden" name="id" /><input class="button" type="submit" value="Add page" tabindex="4" /></form></p></div>
+<p>
+The new page will be generated from a template with the following sections: <strong>Title, Ensemble Info, Technical Requirements, Resources &amp; Media, Miscellaneous.</strong>
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Submit&quot;,&quot;hid&quot;:&quot;submit&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;28-407&quot;} -->
+<h2 class="sectionedit3" id="instructions">Instructions</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Instructions&quot;,&quot;hid&quot;:&quot;instructions&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;408-434&quot;} -->
+<h3 class="sectionedit4" id="tags">Tags</h3>
+<div class="level3">
+
+<p>
+Each section of a repertoire entry should include several tags to strengthen search efficacy.
+Tags are added while editing a submission after the written (i.e. visible) portion of the section.
+To promote simplicity and usability, tag content may not always match written content exactly i.e.
+written content can be expanded and explained in detail, while tags should be short and generic.
+Please double check the Repertoire Search page to see if a suitable tag exists before creating new ones.
+</p>
+
+<p>
+Tag format is:
+</p>
+<pre class="code">{{tag&gt;
+category1:tag1
+category1:tag2
+category2:tag_with_multiple_words
+}}</pre>
+
+<p>
+Note that tag categories might be used multiple times in the same section, and multiple words are separated with underscores. For example:
+</p>
+<pre class="code">{{tag&gt;
+os:Windows
+os:Mac
+software:Max
+hardware:MIDI_Controllers
+}}</pre>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Tags&quot;,&quot;hid&quot;:&quot;tags&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;435-1265&quot;} -->
+<h3 class="sectionedit5" id="section_guidelines">Section Guidelines</h3>
+<div class="level3">
+
+</div>
+
+<h4 id="title">Title</h4>
+<div class="level4">
+
+<p>
+In addition to the composition title, the Title section also includes composer and collaborator names, contact information, and optionally a general description or short program notes.
+</p>
+
+<p>
+Replace the word Title in the top level heading with the title of the composition. This also determines the
+name of the page that will show up in the search results.
+</p>
+
+<p>
+Set composer name(s) as link(s) to personal websites if desired using the square bracket format provided in the
+template or the External Link button in the editor toolbar.
+You may also enter additional roles as needed for collaborators
+e.g. video artists, instrument designers, programmers, etc.
+</p>
+
+<p>
+<strong> <em> add length field and tag guidelines - suggestions? </em> </strong>
+</p>
+
+</div>
+
+<h4 id="ensemble_info">Ensemble Info</h4>
+<div class="level4">
+
+<p>
+The Ensemble Info section includes the required number of performers, instrumentation, and recommended experience level for ensembles interested in performing the composition.
+</p>
+
+<p>
+When creating a tag for the number of performers, enter the minimum required. Create a second performers:flexible tag if it can vary.
+</p>
+
+<p>
+Use only the following tags for experience level:
+</p>
+<ul>
+<li class="level1"><div class="li"> Novice (no notation reading skills required, minimal rehearsal)</div>
+</li>
+<li class="level1"><div class="li"> Intermediate (requires basic notation reading and/or rhythmic coordination, regular rehearsal)</div>
+</li>
+<li class="level1"><div class="li"> Advanced (requires advanced notation reading skills and/or rhythmic coordination, rigorous rehearsal)</div>
+</li>
+</ul>
+
+<p>
+Start with the following tags for instrumentation:
+</p>
+<ul>
+<li class="level1"><div class="li"> Laptops_Only</div>
+</li>
+<li class="level1"><div class="li"> Mobile_Devices_Only</div>
+</li>
+<li class="level1"><div class="li"> Laptops_Plus_Instrument(s)</div>
+</li>
+<li class="level1"><div class="li"> Laptops_Plus_Voice(s)</div>
+</li>
+</ul>
+
+<p>
+Additional tags may be added if needed to indicate specific instruments.
+</p>
+
+<p>
+<strong> <em> These tags need work! </em> </strong>
+</p>
+
+<p>
+An example Ensemble Info section tag might look like this:
+</p>
+<pre class="code">{{tag&gt;
+performers:4
+performers:flexible
+instrumentation:Laptops_Plus_Instrument
+instrumentation:Percussion
+experience:Intermediate
+}}</pre>
+
+</div>
+
+<h4 id="technical_requirements">Technical Requirements</h4>
+<div class="level4">
+
+<p>
+The Technical Requirements section includes operating system compatibility, required software, and required hardware. Comprehensive details, such as software version or architecture limitations, external libraries or plugins, number of keys or knobs on MIDI controllers, can be added in the visible text area (not tags) as needed.
+</p>
+
+<p>
+Use only the following tags for operating systems (include all that apply):
+</p>
+<ul>
+<li class="level1"><div class="li"> Windows</div>
+</li>
+<li class="level1"><div class="li"> Mac</div>
+</li>
+<li class="level1"><div class="li"> Linux</div>
+</li>
+<li class="level1"><div class="li"> Raspberry Pi</div>
+</li>
+<li class="level1"><div class="li"> iOS</div>
+</li>
+<li class="level1"><div class="li"> Android</div>
+</li>
+</ul>
+
+<p>
+Suggested starting tags for software:
+</p>
+<ul>
+<li class="level1"><div class="li"> Max</div>
+</li>
+<li class="level1"><div class="li"> Pure_Data</div>
+</li>
+<li class="level1"><div class="li"> SuperCollider</div>
+</li>
+<li class="level1"><div class="li"> Web_Browser</div>
+</li>
+<li class="level1"><div class="li"> etc.</div>
+</li>
+</ul>
+
+<p>
+Suggested starting tags for hardware:
+</p>
+<ul>
+<li class="level1"><div class="li"> MIDI_Controllers</div>
+</li>
+<li class="level1"><div class="li"> Video_Game_Controllers</div>
+</li>
+<li class="level1"><div class="li"> Sensor_Based</div>
+</li>
+<li class="level1"><div class="li"> Microphones</div>
+</li>
+<li class="level1"><div class="li"> etc.</div>
+</li>
+</ul>
+
+</div>
+
+<h4 id="resources_media">Resources &amp; Media</h4>
+<div class="level4">
+
+<p>
+The Resources &amp; Media section is for adding links to scores, patches, photos, and/or recordings. You are responsible for hosting and maintaining your own files and media - this may change in the future, but please do not upload files to this wiki page. Video from YouTube or Vimeo and audio from SoundCloud can be embedded using the video sharing button in the toolbar.
+</p>
+
+</div>
+
+<h4 id="miscellaneous">Miscellaneous</h4>
+<div class="level4">
+
+<p>
+The Miscellaneous section is provided for any important information and tags not covered by the previous sections.
+For example:
+</p>
+<ul>
+<li class="level1"><div class="li"> Telematic music</div>
+</li>
+<li class="level1"><div class="li"> Unique performance venue requirements</div>
+</li>
+<li class="level1"><div class="li"> Costumes</div>
+</li>
+<li class="level1"><div class="li"> etc.</div>
+</li>
+</ul>
+
+<p>
+This section can be deleted from the submission if it is not needed.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Section Guidelines&quot;,&quot;hid&quot;:&quot;section_guidelines&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;1266-&quot;} -->

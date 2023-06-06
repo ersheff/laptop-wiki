@@ -1,12 +1,14 @@
+**[[start|Home]]**
+
+
 **Repertoire**
-  * [[repertoire_submit|Submit]]
-  * [[repertoire_search|Search]]
-  * [[repertoire_browse|Browse]]
+  * [[repertoire:repertoire_search|Search]]
+  * [[repertoire:repertoire_submit|Submit]]
 
 
-**[[software_share|Software Share]]**
+**[[wiki:software_share|Software Share]]**
 
-**[[handbook|Handbook]]**
+**[[wiki:handbook|Handbook]]**
 
 
 ----

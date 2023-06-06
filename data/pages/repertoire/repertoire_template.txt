@@ -1,0 +1,59 @@
+/* LEMARR - NEW REPERTOIRE PAGE TEMPLATE */
+/* Comments within a /* */ block are for reference and will not be visible on published pages. */
+
+
+/* Replace title. */
+====== Title ======
+
+/* Add additional roles and names if needed. */
+  * Composer: [[http://example.com|Firstname Lastname]]
+  * Contact: [[composer@email.com]]
+
+/* Enter a general description or short program notes here if desired. */
+
+{{tag>
+people:
+}}
+
+
+===== Ensemble Info =====
+
+  * Number of Performers:
+  * Instrumentation:
+  * Experience Level:
+
+/* Enter additional details here if needed. */
+
+{{tag>
+performers:
+instrumentation:
+experience:
+}}
+
+
+===== Technical Requirements =====
+
+  * Operating System(s):
+  * Software:
+  * Hardware:
+
+/* Enter additional details here if needed. */
+
+{{tag>
+os:
+software:
+hardware:
+}}
+
+
+===== Resources & Media =====
+  * [[http://example.com|Link to score and files]]
+  * [[http://example.com|Link to recording]]
+
+
+===== Miscellaneous =====
+/* Delete this section if it is not needed. */
+
+{{tag>
+misc:
+}}

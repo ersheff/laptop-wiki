@@ -45,3 +45,15 @@ pure_data
 os:mac
 software:pure_data
 os:linux
+category1:tag1
+category1:tag2
+category2:tag_with_multiple_words
+hardware:midi_controllers
+instrumentation:laptops_plus_instrument_s
+instrumentation:percussion
+people:music_mccomposerface
+hardware:microphones
+people:eric
+os:noodle
+software:poop
+hardware:pee

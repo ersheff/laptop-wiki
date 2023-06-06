@@ -1,68 +1,3 @@
-1685118114	::1	C	sidebar	admin	created		16
-1685118130	::1	C	start	admin	created		19
-1685118785	::1	C	repertoire	admin	created		84
-1685118833	::1	C	repertoire:test1	admin	created		58
-1685118867	::1	E	repertoire	admin			2
-1685118944	::1	E	repertoire	admin			0
-1685118961	::1	E	repertoire	admin			6
-1685118979	::1	E	repertoire	admin			7
-1685119086	::1	E	repertoire	admin			-7
-1685119136	::1	C	repertoire:test2	admin	created		42
-1685119301	::1	E	repertoire	admin			-13
-1685208854	::1	E	repertoire:test1	admin			70
-1685209156	::1	E	repertoire:test1	admin			-36
-1685210180	::1	E	sidebar	admin			25
-1685210218	::1	E	sidebar	admin			15
-1685210233	::1	E	sidebar	admin			14
-1685210262	::1	E	sidebar	admin			-20
-1685210269	::1	E	sidebar	admin			4
-1685210300	::1	E	sidebar	admin			6
-1685210312	::1	E	sidebar	admin			-10
-1685210360	::1	E	sidebar	admin			32
-1685210366	::1	E	sidebar	admin			1
-1685210376	::1	E	sidebar	admin			23
-1685210383	::1	E	sidebar	admin			-19
-1685210445	::1	E	sidebar	admin			5
-1685210514	::1	E	repertoire	admin			42
-1685210553	::1	C	wiki:rep_template	admin	created		4
-1685210602	::1	E	repertoire	admin			-5
-1685210794	::1	E	repertoire	admin			5
-1685210830	::1	E	wiki:rep_template	admin			29
-1685210864	::1	E	wiki:rep_template	admin			20
-1685210886	::1	E	wiki:rep_template	admin			3
-1685210920	::1	E	wiki:rep_template	admin			-1
-1685210926	::1	E	wiki:rep_template	admin			-3
-1685210933	::1	E	wiki:rep_template	admin			3
-1685210950	::1	C	repertoire:poop	admin	created		64
-1685210967	::1	E	repertoire:poop	admin			-1
-1685210985	::1	E	repertoire:poop	admin			-1
-1685210998	::1	E	repertoire:poop	admin			-2
-1685211006	::1	E	repertoire:poop	admin			2
-1685211012	::1	E	repertoire:poop	admin			0
-1685211045	::1	E	repertoire:poop	admin			20
-1685211066	::1	E	repertoire:poop	admin			26
-1685211078	::1	E	repertoire:poop	admin			-4
-1685211088	::1	E	repertoire:poop	admin			9
-1685211104	::1	E	repertoire:poop	admin			-31
-1685211216	::1	E	sidebar	admin			31
-1685313062	::1	E	wiki:rep_template	admin			91
-1685313099	::1	E	wiki:rep_template	admin			55
-1685313113	::1	E	wiki:rep_template	admin			-57
-1685313147	::1	E	wiki:rep_template	admin			-30
-1685313175	::1	E	wiki:rep_template	admin			31
-1685313200	::1	E	repertoire	admin			-4
-1685313325	::1	E	wiki:rep_template	admin			57
-1685313405	::1	E	wiki:rep_template	admin			102
-1685313434	::1	E	wiki:rep_template	admin			-14
-1685313602	::1	E	wiki:rep_template	admin			70
-1685313652	::1	E	wiki:rep_template	admin			72
-1685313664	::1	E	wiki:rep_template	admin	[Info] 		-1
-1685313681	::1	E	wiki:rep_template	admin	[Format & Instrumentation] 		-1
-1685313689	::1	E	wiki:rep_template	admin	[Software Requirements] 		10
-1685314676	::1	E	wiki:rep_template	admin			30
-1685314698	::1	E	wiki:rep_template	admin			30
-1685314784	::1	E	wiki:rep_template	admin			133
-1685314837	::1	E	wiki:rep_template	admin			19
 1685646377	::1	E	wiki:rep_template	admin			9
 1685646484	::1	E	wiki:rep_template	admin			2
 1685646514	::1	E	wiki:rep_template	admin			24
@@ -194,6 +129,9 @@
 1685669514	::1	E	repertoire:poop	admin			30
 1685669549	::1	E	repertoire:poop	admin			9
 1685669595	::1	E	repertoire	admin			35
+1685669595	127.0.0.1	C	repertoire_submit		created - external edit		747
+1685669595	127.0.0.1	C	repertoire_search		created - external edit		747
+1685669595	127.0.0.1	C	repertoire_browse		created - external edit		747
 1685669704	::1	E	wiki:rep_template	admin			-19
 1685669778	::1	E	software	admin			7
 1685669790	::1	E	handbook	admin			8
@@ -203,9 +141,72 @@
 1685670058	::1	E	start	admin			-15
 1685670401	::1	E	software	admin			1
 1685670853	::1	E	sidebar	admin			27
-1685669595	127.0.0.1	C	repertoire_submit		created - external edit		747
 1685670862	::1	E	repertoire_submit	admin			-426
-1685669595	127.0.0.1	C	repertoire_search		created - external edit		747
 1685670873	::1	E	repertoire_search	admin			-331
-1685669595	127.0.0.1	C	repertoire_browse		created - external edit		747
 1685671499	::1	E	repertoire_browse	admin			-726
+1685928367	127.0.0.1	C	repertoire:repertoire_submit		created - external edit		2387
+1685928401	::1	E	repertoire:repertoire_submit	admin			97
+1685928417	::1	E	repertoire:repertoire_submit	admin			-12
+1685670873	127.0.0.1	C	repertoire:repertoire_search		created - external edit		416
+1685928606	::1	E	repertoire:repertoire_search	admin			-4
+1685928579	127.0.0.1	E	repertoire:repertoire_submit		external edit		-172
+1685928613	::1	E	repertoire:repertoire_submit	admin			11
+1685928628	::1	E	repertoire:repertoire_search	admin			13
+1685928638	::1	E	repertoire:repertoire_submit	admin			2
+1685928645	::1	E	repertoire:repertoire_submit	admin			-1
+1685928651	::1	E	repertoire:repertoire_search	admin			1
+1685928155	127.0.0.1	C	software_share		created - external edit		1086
+1685928696	::1	E	software_share	admin			7
+1686015396	127.0.0.1	E	repertoire:repertoire_search		external edit		88
+1686015789	::1	E	repertoire:repertoire_search	admin			14
+1686015901	::1	E	repertoire:repertoire_search	admin			28
+1686015962	::1	E	repertoire:repertoire_search	admin			29
+1686015989	::1	E	repertoire:repertoire_search	admin			1
+1686015997	::1	E	repertoire:repertoire_search	admin			8
+1686016003	::1	E	repertoire:repertoire_search	admin			1
+1686016018	::1	E	repertoire:repertoire_search	admin			-1
+1686016037	::1	E	repertoire:repertoire_search	admin			-4
+1686016056	::1	E	repertoire:repertoire_search	admin			0
+1686016062	::1	E	repertoire:repertoire_search	admin			1
+1686015415	127.0.0.1	E	repertoire:repertoire_submit		external edit		6
+1686016084	::1	E	repertoire:repertoire_submit	admin			8
+1685973216	127.0.0.1	E	sidebar		external edit		-12
+1686016122	::1	E	sidebar	admin			11
+1686016947	127.0.0.1	E	repertoire:repertoire_submit		external edit		215
+1686016985	::1	E	repertoire:repertoire_submit	admin			3
+1686017040	::1	E	repertoire:repertoire_submit	admin			9
+1686017066	::1	E	repertoire:repertoire_submit	admin			15
+1686017087	::1	E	repertoire:repertoire_submit	admin			8
+1686017172	::1	E	repertoire:repertoire_submit	admin			3
+1686017205	::1	E	repertoire:repertoire_submit	admin			16
+1686017212	::1	E	repertoire:repertoire_submit	admin			1
+1686017258	::1	E	repertoire:repertoire_submit	admin			-6
+1686017360	::1	E	repertoire:repertoire_submit	admin			183
+1686017560	::1	E	repertoire:repertoire_submit	admin			151
+1686017639	::1	E	repertoire:repertoire_submit	admin			140
+1686017685	::1	E	repertoire:repertoire_submit	admin			29
+1686017728	::1	R	repertoire:repertoire_submit	admin	old revision restored (2023/06/06 02:13)	1686017639	15
+1686017785	::1	E	repertoire:repertoire_submit	admin			12
+1686017841	::1	E	repertoire:repertoire_submit	admin			65
+1686017887	::1	E	repertoire:repertoire_submit	admin			-15
+1686017926	::1	E	repertoire:repertoire_submit	admin			2
+1686018051	::1	E	repertoire:repertoire_submit	admin			206
+1686018283	::1	E	repertoire:repertoire_submit	admin			38
+1686018357	::1	E	repertoire:repertoire_submit	admin			72
+1686018367	::1	E	repertoire:repertoire_submit	admin			1
+1686018605	::1	E	repertoire:repertoire_submit	admin			-67
+1686022427	127.0.0.1	E	repertoire:repertoire_submit		external edit		986
+1686022443	::1	E	repertoire:repertoire_submit	admin	[Section Guidelines] 		-2
+1686023797	::1	C	wiki:repertoire_example	admin	created		1423
+1686023942	::1	E	wiki:repertoire_example	admin			104
+1686023976	::1	E	wiki:repertoire_example	admin			0
+1686024015	::1	E	wiki:repertoire_example	admin			24
+1686024165	::1	C	repertoire:repertoire_pages:poop	admin	created		1174
+1686026412	::1	E	sidebar	admin			21
+1686015626	127.0.0.1	E	start		external edit		83
+1686026525	::1	E	start	admin			14
+1686026375	127.0.0.1	E	repertoire:repertoire_submit		external edit		167
+1686026569	::1	E	repertoire:repertoire_submit	admin			27
+1686026576	::1	E	repertoire:repertoire_submit	admin			1
+1686026720	127.0.0.1	D	repertoire:repertoire_pages:poop		removed - external edit (Unknown date)		-1174
+1686026721	::1	C	repertoire:repertoire_pages:poop	admin	created		1011
