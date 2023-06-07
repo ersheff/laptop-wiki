@@ -1,0 +1,57 @@
+/* LERR - NEW REPERTOIRE PAGE TEMPLATE */
+/* Comments within a /* */ block are for reference and will not be visible on published pages. */
+
+
+/* Replace title. */
+====== SHP of THSEUS ======
+
+----
+
+===== General Info =====
+/* Add additional roles and names if needed. Create separate people tags for each person listed. */
+Composers: [[https://jeffherriott.com|Jeff Herriott]], [[https://nickhwang.com|Nick Hwang]], [[http://atmarasco.com|Anthony T. Marasco]], [[https://www.ericsheffield.net|Eric Sheffield]], [[http://aweisling.comm|Anna Weisling]]
+{{tag>people:Jeff_Herriott people:Nick_Hwang people:Anthony_T_Marasco people:Eric_Sheffield people:Anna_Weisling}}
+
+Contact: [[hwangn@uww.edu]]
+
+Duration: 9:00-10:00
+{{tag>duration:5-10m}}
+
+SHP of THSEUS is a collaborative audiovisual composition that draws inspiration from the Greek legend of the Ship of Theseus. As with the ship in the original story, various components and settings of our instruments are altered throughout the duration of the performance, changing sonic characteristics and the roles of the individual performers. We navigate this question of identity through a graphical score and custom instruments that expose parameters to the entire ensemble through the use of a shared network control structure.
+
+===== Ensemble Info =====
+Number of Performers: Flexible
+{{tag>performers:flexible}}
+
+Instrumentation: Laptops required, flexible otherwise
+{{tag>instrumentation:laptops_only instrumentation:laptops_plus_instruments}}
+
+Experience Level: Intermediate
+{{tag>experience:intermediate}}
+
+
+===== Technical Requirements =====
+/* Please create tags for all compatible os options. */
+Operating System(s): Windows or Mac
+{{tag>os:Windows os:Mac}}
+
+Software: Max 8 or higher, [[https://www.collab-hub.io|Collab-Hub]] Max package (installed from Max's package manager)
+{{tag>software:Max software:Collab-Hub}}
+
+Hardware: None required, various controllers and/or audio interfaces may be useful depending on instrumentation
+{{tag>hardware:}}
+
+
+===== Resources & Media =====
+/* Create as many links or embedded players as needed. */
+[[http://example.com|Link to score and files - coming soon]]
+
+{{youtube>2ewFgrTuzBE?}}
+
+
+===== Miscellaneous =====
+/* Delete the Miscellaneous section if it is not used. */
+SHP of THSEUS uses the Collab-Hub network performance utility for performers to share control data with each other in realtime.
+This composition can optionally be performed as a telematic work if the necessary audio/video sharing utilities are incorporated.
+
+{{tag>misc:network_performance misc:telematic}}

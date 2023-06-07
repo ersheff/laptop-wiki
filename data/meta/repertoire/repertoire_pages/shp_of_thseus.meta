@@ -1,0 +1,17 @@
+a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1686160288;s:8:"modified";i:1686163549;}s:7:"creator";s:14:"Eric Sheffield";s:4:"user";s:5:"admin";s:11:"last_change";a:8:{s:4:"date";i:1686163549;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:41:"repertoire:repertoire_pages:shp_of_thseus";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;}s:11:"contributor";a:1:{s:5:"admin";s:14:"Eric Sheffield";}s:5:"title";s:13:"SHP of THSEUS";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:12:"general_info";s:5:"title";s:12:"General Info";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:13:"ensemble_info";s:5:"title";s:13:"Ensemble Info";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:2;a:4:{s:3:"hid";s:22:"technical_requirements";s:5:"title";s:22:"Technical Requirements";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:3;a:4:{s:3:"hid";s:15:"resources_media";s:5:"title";s:17:"Resources & Media";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:4;a:4:{s:3:"hid";s:13:"miscellaneous";s:5:"title";s:13:"Miscellaneous";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:503:"SHP of THSEUS
+
+----------
+
+General Info
+
+Composers: Jeff Herriott, Nick Hwang, Anthony T. Marasco, Eric Sheffield, Anna Weisling
+
+people:jeff_herriott people:nick_hwang people:anthony_t_marasco people:eric_sheffield people:anna_weisling
+
+Contact: <hwangn@uww.edu>
+
+Duration: 9:00-10:00
+
+duration:5-10m
+
+SHP of THSEUS is a collaborative audiovisual composition that draws inspiration from the Greek legend of the Ship of Theseus. As with the ship in the original story, various components and settings…";}s:7:"subject";a:17:{i:0;s:20:"people:jeff_herriott";i:1;s:17:"people:nick_hwang";i:2;s:24:"people:anthony_t_marasco";i:3;s:21:"people:eric_sheffield";i:4;s:20:"people:anna_weisling";i:5;s:14:"duration:5-10m";i:6;s:19:"performers:flexible";i:7;s:28:"instrumentation:laptops_only";i:8;s:40:"instrumentation:laptops_plus_instruments";i:9;s:23:"experience:intermediate";i:10;s:10:"os:windows";i:11;s:6:"os:mac";i:12;s:12:"software:max";i:13;s:19:"software:collab-hub";i:14;s:8:"hardware";i:15;s:24:"misc:network_performance";i:16;s:14:"misc:telematic";}s:8:"relation";a:2:{s:10:"references";a:17:{s:20:"people:jeff_herriott";b:0;s:17:"people:nick_hwang";b:0;s:24:"people:anthony_t_marasco";b:0;s:21:"people:eric_sheffield";b:0;s:20:"people:anna_weisling";b:0;s:14:"duration:5-10m";b:0;s:19:"performers:flexible";b:0;s:28:"instrumentation:laptops_only";b:0;s:40:"instrumentation:laptops_plus_instruments";b:0;s:23:"experience:intermediate";b:0;s:10:"os:windows";b:0;s:6:"os:mac";b:0;s:12:"software:max";b:0;s:19:"software:collab-hub";b:0;s:12:"tag:hardware";b:0;s:24:"misc:network_performance";b:0;s:14:"misc:telematic";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1686160288;s:8:"modified";i:1686163549;}s:7:"creator";s:14:"Eric Sheffield";s:4:"user";s:5:"admin";s:11:"last_change";a:8:{s:4:"date";i:1686163549;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:41:"repertoire:repertoire_pages:shp_of_thseus";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;}s:11:"contributor";a:1:{s:5:"admin";s:14:"Eric Sheffield";}}}

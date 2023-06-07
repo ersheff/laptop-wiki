@@ -1,9 +1,9 @@
 ====== Repertoire: Search ======
 
 
-Use the tag categories below to filter repertoire results. 
-Command-click (Mac) or control-click (Windows) to select multiple tags in the same category. 
-Alternatively, you can use the search field to look for a specific title or keyword in the repertoire collection: {searchform ns=repertoire_pages}
+Use the tag categories to filter repertoire results, which are displayed below the Tag Filter section. 
+Command-click (Mac) or control-click (Windows) to select multiple tags in the same category.
+Alternatively, you can use the search field to look for a specific title or keyword in the repertoire collection. {searchform ns=repertoire_pages}
 
 
 {{tagfilter>

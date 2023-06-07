@@ -1,64 +1,56 @@
-/* LEMARR - NEW REPERTOIRE PAGE TEMPLATE */
+/* LERR - NEW REPERTOIRE PAGE TEMPLATE */
 /* Comments within a /* */ block are for reference and will not be visible on published pages. */
 
 
 /* Replace title. */
 ====== Title ======
 
+----
 
 ===== General Info =====
+/* Add additional roles and names if needed. Create separate people tags for each person listed. */
+Composer: [[http://example.com|Firstname Lastname]]
+{{tag>people:}}
 
-/* Add additional roles and names if needed. */
-  * Composer: [[http://example.com|Firstname Lastname]]
-  * Contact: [[composer@email.com]]
-  * Duration:
+Contact: [[composer@email.com]]
+
+Duration:
+{{tag>duration:}}
 
 /* Enter a general description or short program notes here if desired. */
 
-{{tag>
-people:
-duration:
-}}
-
 
 ===== Ensemble Info =====
+Number of Performers:
+{{tag>performers:}}
 
-  * Number of Performers:
-  * Instrumentation:
-  * Experience Level:
+Instrumentation:
+{{tag>instrumentation:}}
 
-/* Enter additional details here if needed. */
-
-{{tag>
-performers:
-instrumentation:
-experience:
-}}
+Experience Level:
+{{tag>experience:}}
 
 
 ===== Technical Requirements =====
+/* Please create tags for all compatible os options. */
+Operating System(s):
+{{tag>os:}}
 
-  * Operating System(s):
-  * Software:
-  * Hardware:
+Software:
+{{tag>software:}}
 
-/* Enter additional details here if needed. */
-
-{{tag>
-os:
-software:
-hardware:
-}}
+Hardware:
+{{tag>hardware:}}
 
 
 ===== Resources & Media =====
-  * [[http://example.com|Link to score and files]]
-  * [[http://example.com|Link to recording]]
+/* Create as many links or embedded players as needed. */
+[[http://example.com|Link to score and files]]
+
+[[http://example.com|Link to recording]]
 
 
 ===== Miscellaneous =====
-/* Delete this section if it is not needed. */
+/* Delete the Miscellaneous section if it is not used. */
 
-{{tag>
-misc:
-}}
+{{tag>misc:}}

@@ -16,6 +16,12 @@
 
 **Info**
 
-  * [[wiki:faq|LEMARR FAQ]]
+  * [[wiki:faq|LERR FAQ]]
   * [[wiki:syntax|DokuWiki Syntax]]
   * [[wiki:dokuwiki|About DokuWiki]]
+
+----
+
+**[[todos|To-Dos & Suggestions]]**
+
+Edit this page to create a to-do list and/or make suggestions about tags, instructions, formatting, other content, etc.

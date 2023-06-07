@@ -1,131 +1,131 @@
 ====== Repertoire: Submit ======
 
 To create a new entry for the repertoire collection, enter a title in the text field below and click the
-"Add Page" button.
+"Add Page" button (must be logged in).
 
 {{NEWPAGE>repertoire:repertoire_pages#repertoire:repertoire_template}}
 
-The new page will be generated from a template with the following sections: **General Info, Ensemble Info, Technical Requirements, Resources & Media, Miscellaneous.**
+The new page will be generated from a template with the following sections: **Title, General Info, Ensemble Info, Technical Requirements, Resources & Media, Miscellaneous.**
 
-
+You may want to keep this page open in a separate tab/window for reference when editing an entry.
 
 ===== Instructions =====
 
+Each section of a repertoire page will be comprised of written/visible text (i.e. what is displayed) and several tags. To promote simplicity and usability, the format of the tags will often not match written content exactly -
+**written content should be "human readable" and expanded with detail as needed, while tags should be short, uniform, and generic.** Additionally, formatting for display text can be much more flexible than tags - just write whatever looks good and reads well.
 
-==== Tags ====
+A collection of standardized tags are provided in each Section Guidelines section below. Please double check the Repertoire [[repertoire:repertoire_search|Search]] page to see if a suitable tag exists before creating new ones.
 
-Each section of a repertoire entry should include several tags to strengthen search efficacy.
-Tags are added while editing a submission at the end of the written (i.e. visible) portion of the section.
-To promote simplicity and usability, tag content may not always match written content exactly i.e.
-written content can be expanded and explained in detail, while tags should be short and generic.
-Please double check the Repertoire Search page to see if a suitable tag exists before creating new ones.
+Tags MUST include a category in order for them to work with the tag filter on the Repertoire [[repertoire:repertoire_search|Search]] page. Tag categories are:
+  * people (composer(s) and collaborators associated with the composition)
+  * duration
+  * performers (number of performers required)
+  * instrumentation
+  * experience (difficulty of the composition, recommended experience level)
+  * os (compatible operating systems that can be used to run the required sofwtare)
+  * software (software applications required)
+  * hardware (non-computing hardware required)
+  * misc (any important miscellaneous tags not covered by the preceding categories)
 
 Tag format is:
-  {{tag>
-  category1:tag1
-  category1:tag2
-  category2:tag_with_multiple_words
-  }}
+  {{tag>category:tag category:tag_with_multiple_words}}
 
-Note that tag categories might be used multiple times in the same section, and multiple words are separated with underscores. For example:
-  {{tag>
-  os:Windows
-  os:Mac
-  software:Max
-  hardware:MIDI_Controllers
-  }}
+Note that some categories might require multiple tags, and multiple words are separated with underscores. For example:
+  {{tag>os:Windows os:Mac os:Raspberry_Pi}}
 
 
-==== Section Guidelines ====
+===== Section Guidelines =====
 
-Replace the word Title in the top level heading with the title of the composition. This also determines the
-name of the page that will show up in the search results.
+----
 
+==== Title ====
+Replace the word "Title" in the top level heading with the title of the composition. This also determines the
+name of the page that will display in the search results.
 
-=== General Info ===
+----
 
-The General section includes composer and collaborator names, contact information, duration, and optionally a general description or short program notes.
+==== General Info ====
+The General Info section includes composer and collaborator names, contact information, duration, and optionally a general description or short program notes.
 
-Set composer name(s) as link(s) to personal websites if desired using the square bracket format provided in the
-template or the External Link button in the editor toolbar.
-You may also enter additional roles as needed for collaborators
-e.g. video artists, instrument designers, programmers, etc.
+=== Composer ===
+Set composer name(s) as link(s) to personal websites if desired using the square bracket format provided in the template or the External Link button {{:repertoire:linkextern.png?nolink|}} in the editor toolbar. You may also enter additional roles as needed for collaborators e.g. video artists, instrument designers, programmers, etc.
 
+=== Contact ===
+Provide at least a primary contact email address (i.e. for the composer). Ideally, this would allow a performer or ensemble director to reach out if they have questions or experience technical issues. Additional email addresses are optional.
+
+=== Duration ===
 Use only the following tags for duration:
-  * <5m
-  * 5-10m
-  * >10m
-  * Concert_Length
+  duration:flexible
+  duration:<5m
+  duration:5-10m
+  duration:>10m
+  duration:concert_length
 
+----
 
-=== Ensemble Info ===
-
+==== Ensemble Info ====
 The Ensemble Info section includes the required number of performers, instrumentation, and recommended experience level for ensembles interested in performing the composition.
 
-When creating a tag for the number of performers, enter the minimum required. Create a second performers:flexible tag if it can vary.
+=== Performers ===
+When creating a tag for the number of performers, enter the minimum required. Add an additional "performers:flexible" tag if it can vary.
 
-Use only the following tags for experience level:
-  * Novice (no notation reading skills required, minimal rehearsal)
-  * Intermediate (requires basic notation reading and/or rhythmic coordination, regular rehearsal)
-  * Advanced (requires advanced notation reading skills and/or rhythmic coordination, rigorous rehearsal)
-
+=== Instrumentation ===
+// ** This area needs more work. Also needs a tag for video. ** //
 Start with the following tags for instrumentation:
-  * Laptops_Only
-  * Mobile_Devices_Only
-  * Laptops_Plus_Instruments
-  * Laptops_Plus_Voices
-  
-Additional tags may be added if needed to indicate specific instruments.
+  instrumentation:laptops_only
+  instrumentation:mobile_devices_only
+  instrumentation:laptops_plus_instruments
+  instrumentation:laptops_plus_voices
+Additional tags may be added for each specific instrument (create new ones as needed if they do not already exist in the Repertoire [[repertoire:repertoire_search|Search]]).
 
-** // These tags need work! // **
+=== Experience ===
+Use only the following tags for experience level:
+  experience:novice
+  experience:intermediate
+  experience:advanced
 
-An example Ensemble Info section tag might look like this:
+Refer to the following definitions when assigning experience tags:
+  * Novice = no notation reading skills required, minimal rehearsal
+  * Intermediate = requires basic notation reading and/or rhythmic coordination, regular rehearsal
+  * Advanced = requires advanced notation reading skills and/or rhythmic coordination, rigorous rehearsal
 
-  {{tag>
-  performers:4
-  performers:flexible
-  instrumentation:Laptops_Plus_Instrument
-  instrumentation:Percussion
-  experience:Intermediate
-  }}
+----
 
+==== Technical Requirements ====
+The Technical Requirements section includes operating system compatibility, required software, and required hardware. Comprehensive details, such as software version or architecture limitations, external libraries or plugins, number of keys or knobs on MIDI controllers, etc. can be added in the visible text area (not tags) as needed.
 
-=== Technical Requirements ===
-
-The Technical Requirements section includes operating system compatibility, required software, and required hardware. Comprehensive details, such as software version or architecture limitations, external libraries or plugins, number of keys or knobs on MIDI controllers, can be added in the visible text area (not tags) as needed.
-
+=== Operating System(s) ===
 Use only the following tags for operating systems (include all that apply):
-  * Windows
-  * Mac
-  * Linux
-  * Raspberry Pi
-  * iOS
-  * Android
+  os:Windows
+  os:Mac
+  os:Linux
+  os:Raspberry_Pi
+  os:iOS
+  os:Android
 
-Suggested starting tags for software:
-  * Max
-  * Pure_Data
-  * SuperCollider
-  * Web_Browser
-  * etc.
+=== Software ===
+Suggested starting tags for software (create new ones as needed if they do not already exist in the Repertoire [[repertoire:repertoire_search|Search]]):
+  software:Max
+  software:Pure_Data
+  software:SuperCollider
+  software:web_browser
 
-Suggested starting tags for hardware:
-  * MIDI_Controllers
-  * Video_Game_Controllers
-  * Sensor_Based
-  * Microphones
-  * etc.
+=== Hardware ===
+The Hardware section should be focussed primarily on non-computing hardware. It is possible that no tags will be needed here if the composition only requires laptops or mobile devices and no other hardware. Suggested starting tags for hardware (create new ones as needed if they do not already exist in the Repertoire [[repertoire:repertoire_search|Search]]):
+  hardware:MIDI_controllers
+  hardware:video_game_controllers
+  hardware:sensor-based
+  hardware:microphones
 
+----
 
-=== Resources & Media === 
+==== Resources & Media ====
+The Resources & Media section is for adding links to scores, patches, photos, and/or recordings. You are responsible for hosting and maintaining your own files and media - this may change in the future, but please do not upload files to this wiki page. Video from YouTube or Vimeo and audio from SoundCloud can be embedded using the video sharing button {{:repertoire:vbutton.png?nolink|}} in the toolbar. Note that the video sharing plugin may only work with the full video URL, not the shortened one provided by the site's "share" button (e.g. the address that begins with //youtube.com//, not //youtu.be//).
 
-The Resources & Media section is for adding links to scores, patches, photos, and/or recordings. You are responsible for hosting and maintaining your own files and media - this may change in the future, but please do not upload files to this wiki page. Video from YouTube or Vimeo and audio from SoundCloud can be embedded using the video sharing button in the toolbar.
+----
 
-
-=== Miscellaneous ===
-
-The Miscellaneous section is provided for any important information and tags not covered by the previous sections.
-For example:
+==== Miscellaneous ====
+The Miscellaneous section is provided for any important information or helpful tags not covered by the previous sections. For example:
   * Telematic music
   * Unique performance venue requirements
   * Costumes

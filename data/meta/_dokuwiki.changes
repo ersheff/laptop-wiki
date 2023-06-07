@@ -231,3 +231,67 @@
 1686072526	::1	E	repertoire:repertoire_submit	admin			-4
 1686072842	::1	C	repertoire:repertoire_pages:test	admin	created		1069
 1686072852	::1	E	repertoire:repertoire_pages:test	admin	[General Info] 		3
+1686072911	127.0.0.1	E	repertoire:repertoire_search		external edit		0
+1686073101	::1	E	repertoire:repertoire_search	admin			1
+1686073122	::1	E	repertoire:repertoire_search	admin			-2
+1686074969	::1	C	repertoire:repertoire_pages:shp_of_theseus	admin	created		1390
+1686080585	127.0.0.1	E	repertoire:repertoire_submit		external edit		976
+1686080693	::1	E	repertoire:repertoire_submit	admin			2
+1686080730	::1	E	repertoire:repertoire_submit	admin			0
+1686080773	::1	E	repertoire:repertoire_submit	admin			14
+1686085570	127.0.0.1	E	sidebar		external edit		-2
+1686159226	::1	E	sidebar	admin			36
+1686159264	::1	E	sidebar	admin			126
+1686159270	::1	E	sidebar	admin			1
+1686159318	::1	C	todos	admin	created		69
+1686159327	::1	E	todos	admin			4
+1686160288	::1	C	repertoire:repertoire_pages:shp_of_thseus	admin	created		2437
+1686160316	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			-39
+1686160351	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin	[Technical Requirements] 		2
+1686160369	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin	[Miscellaneous] 		11
+1686160382	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin	[Miscellaneous] 		4
+1686160507	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			-2
+1686160518	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			1
+1686159150	127.0.0.1	E	repertoire:repertoire_submit		external edit		1129
+1686160672	::1	E	repertoire:repertoire_submit	admin			80
+1686160708	::1	E	repertoire:repertoire_submit	admin			52
+1686160747	::1	E	repertoire:repertoire_submit	admin			7
+1686159152	127.0.0.1	E	repertoire:repertoire_search		external edit		0
+1686160841	::1	E	repertoire:repertoire_search	admin			9
+1686160865	::1	E	repertoire:repertoire_search	admin			41
+1686160875	::1	E	repertoire:repertoire_search	admin			-6
+1686158771	127.0.0.1	E	start		external edit		9
+1686161008	::1	E	start	admin			47
+1686161021	::1	E	start	admin			-36
+1686161062	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			9
+1686161073	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			1
+1686161124	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			20
+1686161160	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			-6
+1686161260	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			-223
+1686161297	127.0.0.1	C	repertoire:repertoire_pages:shp_of_thseus2		created - external edit		2439
+1686161342	::1	E	repertoire:repertoire_pages:shp_of_thseus2	admin			-7
+1686161361	::1	E	repertoire:repertoire_pages:shp_of_thseus2	admin			-16
+1686161391	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			21
+1686161414	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			-27
+1686161566	::1	E	repertoire:repertoire_search	admin			33
+1686161665	::1	E	repertoire:repertoire_search	admin			-8
+1686161717	::1	E	repertoire:repertoire_search	admin			8
+1686161754	::1	E	repertoire:repertoire_search	admin			6
+1686161760	::1	E	repertoire:repertoire_search	admin			-1
+1686161769	::1	E	repertoire:repertoire_search	admin			6
+1686161796	::1	E	repertoire:repertoire_search	admin			-6
+1686161868	::1	E	repertoire:repertoire_search	admin			19
+1686161880	::1	E	repertoire:repertoire_search	admin			14
+1686161894	::1	E	repertoire:repertoire_search	admin			-71
+1686159154	127.0.0.1	C	repertoire:repertoire_template		created - external edit		1520
+1686162028	::1	E	repertoire:repertoire_template	admin			-143
+1686162262	::1	E	repertoire:repertoire_template	admin			-361
+1686162306	::1	E	repertoire:repertoire_template	admin			-36
+1686162671	::1	E	repertoire:repertoire_template	admin			156
+1686162964	::1	E	repertoire:repertoire_submit	admin			47
+1686162986	::1	E	repertoire:repertoire_submit	admin			1
+1686162996	::1	E	repertoire:repertoire_submit	admin			-3
+1686163097	::1	E	repertoire:repertoire_submit	admin			0
+1686163500	127.0.0.1	D	repertoire:repertoire_pages:shp_of_thseus		removed - external edit (Unknown date)		-2209
+1686163501	::1	C	repertoire:repertoire_pages:shp_of_thseus	admin	created		2578
+1686163549	::1	E	repertoire:repertoire_pages:shp_of_thseus	admin			-1
